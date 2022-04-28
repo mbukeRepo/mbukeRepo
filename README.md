@@ -1,7 +1,7 @@
 ### Hello, I'm Mbuke Prince
 
 - 🔭 I’m currently working on **qfeed.info**
-- 🌱 I’m currently learning **Data structures**
+- 🌱 I’m currently learning **Data structures and algorithms**
 
 - 📫 How to reach me:
   - Phone: +250 739441803
