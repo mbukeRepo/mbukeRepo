@@ -2,9 +2,9 @@
 
 I am Mbuke Prince, currently pursuing my diploma in computer science from ALU. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/mbuke-ishimwe-73a967213/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://www.instagram.com/prince.m.01/)
-[![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/404Mbuke)
+[![Linkedin Badge](https://img.shields.io/badge/-mbuke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mbuke-ishimwe-73a967213/)](https://www.linkedin.com/in/mbuke-ishimwe-73a967213/)
+[![Instagram Badge](https://img.shields.io/badge/-prince.m.01-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/prince.m.01/)](https://www.instagram.com/prince.m.01/)
+[![Twitter Badge](https://img.shields.io/badge/-mbuke_404-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/404Mbuke/)](https://twitter.com/404Mbuke)
 
 ## ⚡ Technologies
 
