@@ -1,10 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Mbuke Prince. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
-
-[![Linkedin Badge](https://img.shields.io/badge/-mbuke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mbuke-ishimwe-73a967213/)](https://www.linkedin.com/in/mbuke-ishimwe-73a967213/)
-[![Instagram Badge](https://img.shields.io/badge/-prince.m.01-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/prince.m.01/)](https://www.instagram.com/prince.m.01/)
-[![Twitter Badge](https://img.shields.io/badge/-mbuke_404-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/404Mbuke/)](https://twitter.com/404Mbuke)
+I am Mbuke Prince. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
 ## ⚡ Technologies
 
